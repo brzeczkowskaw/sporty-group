@@ -1,4 +1,4 @@
-# cocktail-wizard
+# Leagues directory
 
 ### Table of Contests
 -  [Author](#author)
