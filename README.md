@@ -14,6 +14,7 @@
 Using TheSportsDB API app is showing the list of sport leagues.
 User can filter list by league's name and sport category.
 When clicking on the league card, the first season's logo of choosen league is presented.
+Project is deployed [here](https://leagues-directory.netlify.app/).
 
 ## Technologies & Tools
 Application was created using: 
